@@ -62,6 +62,7 @@ body {
     padding: 10px;
     border: none;
     font-size: .9rem;
+    width: 90%;
 }
 .scroll {
     height: 72vh;
