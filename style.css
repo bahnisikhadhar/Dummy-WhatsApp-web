@@ -63,6 +63,7 @@ body {
     border: none;
     font-size: .9rem;
     width: 90%;
+    outline: none;
 }
 .scroll {
     height: 72vh;
@@ -99,5 +100,7 @@ body {
     background-color: white;
     border: none;
     margin-left: 30px;
+    outline: none;
+    /* the above is used to remove the border box while typing to search */
 }
 
